@@ -43,3 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balianurag&" alt="balianurag" /></p>
 
+
+[![balianurag's GitHub | Topics Over Time](https://stats.quine.sh/balianurag/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balianurag)
+
+ [![balianurag's GitHub | Languages Over Time](https://stats.quine.sh/balianurag/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balianurag)
+
