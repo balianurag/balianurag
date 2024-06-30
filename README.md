@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Bali a.k.a iceman</h1>
+<h1 align="center">Hi 👋, I'm Anurag Bali </h1>
 <h3 align="center">A motivated and creative engineer who is passionate about his craft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balianurag&label=Profile%20views&color=0e75b6&style=flat" alt="balianurag" /> </p>
